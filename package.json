@@ -1,0 +1,12 @@
+{
+  "name": "@prismx/tailwindcss-color-variables",
+  "version": "1.0.0",
+  "description": "Generate CSS variables based on tailwindcss' configuration",
+  "author": "João Magalhães",
+  "license": "MIT",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prism-x/tailwindcss-color-variables"
+  }
+}
